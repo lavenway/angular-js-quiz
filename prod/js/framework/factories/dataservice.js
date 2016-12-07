@@ -18,144 +18,151 @@
 
 		var JSONQuizData = [
 			{
-				type: 'text', //Could be text or image in this quiz
-				text: 'This is question 1?',
-				possibilities: [
+				"type": "text",
+				"text": "This is question 1?",
+				"possibilities": [
 					{
-						answer: 'This is option answer A'
+						"answer": "This is option answer A"
 					},
 					{
-						answer: 'This is option answer B'
+						"answer": "This is option answer B"
 					},
 					{
-						answer: 'This is option answer C'
+						"answer": "This is option answer C"
 					},
 					{
-						answer: 'This is option answer D'
+						"answer": "This is option answer D"
 					}
 				],
-				selected: null,
-				correct: null
+				"feedback": "This is a detailed description regarding the answer to question 1",
+				"selected": null,
+				"correct": null
 			},
 			{
-				type: 'text',
-				text: 'This is question 2?',
-				possibilities: [
+				"type": "text",
+				"text": "This is question 2?",
+				"possibilities": [
 					{
-						answer: 'This is option answer A'
+						"answer": "This is option answer A"
 					},
 					{
-						answer: 'This is option answer B'
+						"answer": "This is option answer B"
 					},
 					{
-						answer: 'This is option answer C'
+						"answer": "This is option answer C"
 					},
 					{
-						answer: 'This is option answer D'
+						"answer": "This is option answer D"
 					}
 				],
-				selected: null,
-				correct: null
+				"feedback": "This is a detailed description regarding the answer to question 2",
+				"selected": null,
+				"correct": null
 			},
 			{
-				type: 'text',
-				text: 'This is question 3?',
-				possibilities: [
+				"type": "text",
+				"text": "This is question 3?",
+				"possibilities": [
 					{
-						answer: 'This is option answer A'
+						"answer": "This is option answer A"
 					},
 					{
-						answer: 'This is option answer B'
+						"answer": "This is option answer B"
 					},
 					{
-						answer: 'This is option answer C'
+						"answer": "This is option answer C"
 					},
 					{
-						answer: 'This is option answer D'
+						"answer": "This is option answer D"
 					}
 				],
-				selected: null,
-				correct: null
+				"feedback": "This is a detailed description regarding the answer to question 3",
+				"selected": null,
+				"correct": null
 			},
 			{
-				type: 'text',
-				text: 'This is question 4?',
-				possibilities: [
+				"type": "text",
+				"text": "This is question 4?",
+				"possibilities": [
 					{
-						answer: 'This is option answer A'
+						"answer": "This is option answer A"
 					},
 					{
-						answer: 'This is option answer B'
+						"answer": "This is option answer B"
 					},
 					{
-						answer: 'This is option answer C'
+						"answer": "This is option answer C"
 					},
 					{
-						answer: 'This is option answer D'
+						"answer": "This is option answer D"
 					}
 				],
-				selected: null,
-				correct: null
+				"feedback": "This is a detailed description regarding the answer to question 4",
+				"selected": null,
+				"correct": null
 			},
 			{
-				type: 'text',
-				text: 'This is question 5?',
-				possibilities: [
+				"type": "text",
+				"text": "This is question 5?",
+				"possibilities": [
 					{
-						answer: 'This is option answer A'
+						"answer": "This is option answer A"
 					},
 					{
-						answer: 'This is option answer B'
+						"answer": "This is option answer B"
 					},
 					{
-						answer: 'This is option answer C'
+						"answer": "This is option answer C"
 					},
 					{
-						answer: 'This is option answer D'
+						"answer": "This is option answer D"
 					}
 				],
-				selected: null,
-				correct: null
+				"feedback": "This is a detailed description regarding the answer to question 5",
+				"selected": null,
+				"correct": null
 			},
 			{
-				type: 'text',
-				text: 'This is question 6?',
-				possibilities: [
+				"type": "text",
+				"text": "This is question 6?",
+				"possibilities": [
 					{
-						answer: 'This is option answer A'
+						"answer": "This is option answer A"
 					},
 					{
-						answer: 'This is option answer B'
+						"answer": "This is option answer B"
 					},
 					{
-						answer: 'This is option answer C'
+						"answer": "This is option answer C"
 					},
 					{
-						answer: 'This is option answer D'
+						"answer": "This is option answer D"
 					}
 				],
-				selected: null,
-				correct: null
+				"feedback": "This is a detailed description regarding the answer to question 6",
+				"selected": null,
+				"correct": null
 			},
 			{
-				type: 'image',
-				text: 'This is question 7?',
-				possibilities: [
+				"type": "image",
+				"text": "This is question 7?",
+				"possibilities": [
 					{
-						answer: 'This is option answer A'
+						"answer": "http://www.animalspot.net/wp-content/uploads/2012/01/Monkey-Photos.jpg"
 					},
 					{
-						answer: 'This is option answer B'
+						"answer": "http://www.animalspot.net/wp-content/uploads/2012/01/Monkey-Photos.jpg"
 					},
 					{
-						answer: 'This is option answer C'
+						"answer": "http://www.animalspot.net/wp-content/uploads/2012/01/Monkey-Photos.jpg"
 					},
 					{
-						answer: 'This is option answer D'
+						"answer": "http://www.animalspot.net/wp-content/uploads/2012/01/Monkey-Photos.jpg"
 					}
 				],
-				selected: null,
-				correct: null
+				"feedback": "This is a detailed description regarding the answer to question 7",
+				"selected": null,
+				"correct": null
 			}
 		];
 		
